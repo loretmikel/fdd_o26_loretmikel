@@ -4,18 +4,18 @@ Llena este archivo en **tu copia**, dentro de `estudiantes/<tu-login>/09_python/
 
 ## Quién soy
 
-- Usuario de GitHub:
-- Usuario de DataCamp:
+- Usuario de GitHub: loretmikel
+- Usuario de DataCamp: <!-- TODO: tu usuario de DataCamp -->
 
 El repositorio es público: no escribas aquí tu nombre completo ni tu correo.
 
 ## Software Engineering Principles in Python, capítulos 3 y 4
 
-Fecha en que terminaste el capítulo 4 (AAAA-MM-DD):
+Fecha en que terminaste el capítulo 4 (AAAA-MM-DD): <!-- TODO: AAAA-MM-DD -->
 
 ![Captura del curso con los capítulos 3 y 4 al 100 %](./software-engineering.png)
 
 ## Una cosa que aprendiste y no sabías
 
-Dos o tres líneas: algo concreto de los capítulos 3 o 4 que no sabías, o que
-tenías a medias y ahí se te acomodó.
+<!-- TODO: dos o tres líneas, en tus palabras, sobre algo concreto de los
+capítulos 3 (clases) o 4 (mantenibilidad) que no sabías o tenías a medias. -->
